@@ -130,6 +130,3 @@ git add README.md
 git commit -m "Añadir README con instrucciones, ejemplos y limitaciones"
 git push
 ```
-- **Licencia MIT**: la más permisiva y habitual en proyectos open source.
-
-Si al hacer `git push` te pide credenciales, recuerda: usuario `zene77` y como contraseña el **Personal Access Token** (no tu contraseña de GitHub). Cuéntame si el push sale bien.
